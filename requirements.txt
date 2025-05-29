@@ -1,3 +1,4 @@
 openai
 openai-whisper
-ffmpeg
+python-dotenv
+setuptools-rust
